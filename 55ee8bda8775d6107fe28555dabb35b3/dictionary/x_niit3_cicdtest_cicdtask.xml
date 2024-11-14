@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b101df1287b5d6107fe28555dabb358e" extends="task" label="cicdtask" max_length="40" name="x_niit3_cicdtest_cicdtask" type="collection">
+        <element label="Special Task Flag" max_length="40" name="special_task_flag" type="boolean"/>
+    </element>
+</database>
