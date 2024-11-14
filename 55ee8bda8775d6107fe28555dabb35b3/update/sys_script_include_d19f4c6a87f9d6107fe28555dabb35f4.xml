@@ -13,7 +13,8 @@
 CICDParallelTesting.prototype = {
     initialize: function() {
 		    gs.log("Inside CICD Parallel Testing");
-			gs.log("Included for IFOF 0001")
+			  gs.log("Include IFOD 0003");
+			  gs.log("Included for IFOF 0001")
     },
     type: 'CICD Parallel Testing'
 };]]></script>
@@ -28,7 +29,7 @@ CICDParallelTesting.prototype = {
         <sys_scope display_value="CICDTest">55ee8bda8775d6107fe28555dabb35b3</sys_scope>
         <sys_update_name>sys_script_include_d19f4c6a87f9d6107fe28555dabb35f4</sys_update_name>
         <sys_updated_by>ts.sarang</sys_updated_by>
-        <sys_updated_on>2024-11-13 20:07:01</sys_updated_on>
+        <sys_updated_on>2024-11-13 20:14:46</sys_updated_on>
     </sys_script_include>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>d19f4c6a87f9d6107fe28555dabb35f4</id>
