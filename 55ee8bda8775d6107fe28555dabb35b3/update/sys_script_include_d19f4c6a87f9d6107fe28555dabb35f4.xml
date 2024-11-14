@@ -13,7 +13,8 @@
 CICDParallelTesting.prototype = {
     initialize: function() {
 		    gs.log("Inside CICD Parallel Testing");
-			gs.log("Include IFOD 0003");
+			  gs.log("Include IFOD 0003");
+			  gs.log("Included for IFOF 0001")
     },
     type: 'CICD Parallel Testing'
 };]]></script>
